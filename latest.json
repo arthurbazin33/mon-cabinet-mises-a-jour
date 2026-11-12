@@ -1,11 +1,11 @@
 {
-  "version": "0.1.7",
-  "notes": "Nouvelles couleurs roses, fiche patiente mieux organisée (questionnaire, séances et documents séparés), bandeaux plus discrets. Mises à jour plus fiables.",
-  "pub_date": "2026-11-08T08:56:32.521Z",
+  "version": "0.1.8",
+  "notes": "Récupération des dossiers mis de côté avant une restauration (bouton sur l'accueil). Nouvelle liste « Toutes mes patientes ». Avertissement plus clair avant de restaurer une sauvegarde.",
+  "pub_date": "2026-11-12T09:49:01.397Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzVLWmY1T0YzUUY3RHpzZXJ4blYyc3pmQ1JSNHBuOGt5aUJSMDVmQitCVkRqSWNQb2c2dWxCOEpsVTV5VG1weG1PUTY2UkhENTFmT2Nia0Q2SkpGQ0JneU0rYWtGdGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTI4MTkyCWZpbGU6TW9uIENhYmluZXQuYXBwLnRhci5negl2ZXJzaW9uOjAuMS43ClFSUVNkL3ZiV200SVcwY0g4bm9aQ21CTjlUc0gyTkhLaUE2NFMrb2NoOS9Ucms4aFltZ0JPRnRyWFJIMS9nYW9JSkw4RHZpSHdkZVkzampRcHhmVkFRPT0K",
-      "url": "https://github.com/arthurbazin33/mon-cabinet-mises-a-jour/releases/download/v0.1.7/Mon-Cabinet_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRzVLWmY1T0YzUU5HaVZzUFR4WUU3ckdHMXE1YVBXTnV5U3ZCakh6ZVJ4b01QWmgxL2JmQkxFTWwzRUd2dFR5M3d5WVNhSU9xQjhuSUJ3SzI2UVRMZVFtelZabFlRYlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc2OTQxCWZpbGU6TW9uIENhYmluZXQuYXBwLnRhci5negl2ZXJzaW9uOjAuMS44Cjl3dStYbktuUXowUGpRTWlvV0ZjU21DbG9LeFROeTgwTkUrTlZoMWRHd3E4WVFNQit2ZFlhQmFPaHplYW5uMEUxeGdKQ1YvM2twQklZekRYaVJPcUJ3PT0K",
+      "url": "https://github.com/arthurbazin33/mon-cabinet-mises-a-jour/releases/download/v0.1.8/Mon-Cabinet_aarch64.app.tar.gz"
     }
   }
 }
